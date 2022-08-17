@@ -312,19 +312,22 @@
     color: white;
     }
 
-  .table{
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin: auto;
-  padding: 0;
-  list-style: none;
-  
- }
+    .table{
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin: auto;
+      padding: 0;
+      list-style: none;
+    }
 
-    .table__theme_dark{
+  
+
+    .table_theme_dark{
       position: relative;
       margin-bottom: 90px;
+      display: flex;
+ 
     }
 
 
