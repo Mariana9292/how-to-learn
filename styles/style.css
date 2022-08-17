@@ -314,6 +314,7 @@
 
   .table{
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   margin: auto;
   padding: 0;
