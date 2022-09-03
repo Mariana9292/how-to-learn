@@ -399,12 +399,6 @@
 }
 
 
-.footer__column_content_info {
-  display: flex;
-  flex-direction: column;
-}
-
-
 .footer__column-heading {
   margin: 0;
   line-height: 30px;
