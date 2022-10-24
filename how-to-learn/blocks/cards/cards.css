@@ -3,12 +3,6 @@
 @import url('./__image/cards__image.css');
 @import url('./__description/cards__description.css');
 
-
-
-
-
-
-
 .cards {
   display: flex;
   flex-wrap: wrap;
