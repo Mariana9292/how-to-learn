@@ -20,10 +20,12 @@
 @import url('../blocks/kaufman/kaufman.css');
 @import url('../blocks/footer/footer.css');
 
+
 @import url('./__description/cards__description.css');
 @import url('./__link/feynman__link.css');
 @import url('./_content/footer__column_content_social.css');
 @import url('./__social-icon/footer__social-icon.css');
+@import url('./__author/footer__author.css');
 @import url('./__link/header__link.css');
 @import url('./__triangle/kaufman__triangle.css');
 @import url('./__buy-link/khan__buy-link.css');
@@ -32,11 +34,12 @@
 @import url('./_theme/section-subtitle_theme_dark.css');
 @import url('./_theme/section-title_theme_dark.css');
 @import url('./_theme/table__cell_theme_dark.css');
-@import url('./_theme/table__heading_theme_dark.css');
-@import url('./_theme/table__text_theme_dark.css');
+@import url('./_theme/table__heading.css');
+@import url('./_theme/table__text.css');
 @import url('./__text/_theme/table__text_theme_dark.css');
 @import url('./__span-accent/two-columns__span-accent.css');
-@import url('./__iframe/video__iframe.css');
+
+
 
 
 
