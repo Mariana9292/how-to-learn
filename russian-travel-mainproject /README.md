@@ -9,4 +9,4 @@
 - Адаптивная верстка
 - Проект сделан по методологии БЭМ
 
-Страница доступна в интернетe по адресу: https://github.com/Mariana9292/how-to-learn.git
+Страница доступна в интернетe по адресу: https://mariana9292.github.io/russian-travel-mainproject/
